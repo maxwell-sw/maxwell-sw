@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/1178922523-maker.png?size=160" width="112" alt="Shan Wei" />
+  <img src="https://github.com/maxwell-sw.png?size=160" width="112" alt="Shan Wei" />
 
   # Shan Wei · 单威
 
@@ -129,7 +129,7 @@ Strong team player with sharp analytical thinking; open-minded and able to ident
 ## 🤝 Contact
 
 - **Email**: [weishan@zju.edu.cn](mailto:weishan@zju.edu.cn)
-- **GitHub**: [@1178922523-maker](https://github.com/1178922523-maker)
+- **GitHub**: [@maxwell-sw](https://github.com/maxwell-sw)
 
 <div align="center">
   <sub>Lifelong Learning, No Limits · 终身学习，永不设限</sub>
