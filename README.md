@@ -3,77 +3,134 @@
 
   # 单威 · Shan Wei
 
+  **终身学习，永不设限**
+
   [English](README_EN.md) · 中文
 
-  **浙江大学材料与化工硕士研究生**  
-  智能材料 · 光热调控 · Data-to-Decision Agents
-
-  <a href="https://spectra-copilot.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Spectra%20Copilot-1676d2?style=flat-square" alt="Spectra Copilot Live Demo" /></a>
-  <a href="https://github.com/1178922523-maker/spectra-copilot"><img src="https://img.shields.io/badge/Source-GitHub-1f2937?style=flat-square&logo=github" alt="Spectra Copilot source" /></a>
+  <a href="mailto:weishan@zju.edu.cn"><img src="https://img.shields.io/badge/Email-weishan%40zju.edu.cn-1676d2?style=flat-square" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Hangzhou%2C%20China-4f86c6?style=flat-square" alt="Hangzhou, China" />
 </div>
 
 ---
 
-## 🧭 Overview
+## 🧭 个人信息
 
-我关注材料研究中的“数据如何变成可解释决策”。目前在浙江大学攻读材料与化工硕士，研究经历覆盖光热管理、智能纤维与多波段光学调控；同时将材料研究场景中的数据处理、计算与报告流程产品化为可调用工具的 AI Agent。
-
-> **Research thesis**：把材料、数据与智能工作流连接起来，让复杂分析更可复核、更可交付。
-
-| Research Focus | What I build |
+| 项目 | 内容 |
 | :-- | :-- |
-| **Photonic thermal management** | 多波段光学调控、红外辐射与热管理材料 |
-| **Smart materials & fibers** | 柔性传感纤维、热拉伸装备与结构设计 |
-| **Agent systems** | LLM + Harness、受控工具调用、数据到报告的工作流 |
+| **出生年月** | 2002.07 |
+| **籍贯** | 湖北省黄冈市 |
+| **政治面貌** | 中共党员 |
+| **电话** | 13409678416 |
+| **邮箱** | weishan@zju.edu.cn |
+| **地址** | 浙江省杭州市西湖区余杭塘路 866 号（邮编 310058） |
 
-## ✦ Selected Work
+---
 
-### [Spectra Copilot](https://spectra-copilot.onrender.com/) · 可审计材料筛选 Agent
+## 🎓 教育背景
 
-- 面向材料光谱筛选的 LLM + Harness Agent：将自然语言任务拆解为文件解析、条件确认、指标计算、候选排序与报告交付。
-- 支持光谱文件上传、物理量与单位确认、黑体加权、对比谱图与 HTML 报告；结果区分工具事实、工程判断与待验证条件。
-- [在线体验](https://spectra-copilot.onrender.com/) · [源代码](https://github.com/1178922523-maker/spectra-copilot)
+### 浙江大学 | 材料与化工 | 硕士（推免保送）
+`2024.09 - 至今`
 
-### 多波段雪地隐身材料
+- **GPA 排名**：前 10%
+- **荣誉奖项**：浙江大学一等奖学金、浙江大学优秀研究生
+- **职务**：班长
 
-- 第一完成人，围绕紫外-可见-红外协同隐身开展纳米多孔红外透明材料与低发射率层设计。
-- 实现紫外 90.8%、可见 80.2% 高反射及红外 12.3% 低发射率，为雪地复杂背景的多波段光学调控提供材料方案。
+### 中国石油大学（北京）| 新能源科学与工程 | 本科
+`2020.09 - 2024.06`
 
-### 仿北极熊毛热管理气凝胶纤维及织物
+- **GPA 排名**：2/70
+- **荣誉奖项**：国家奖学金、北京市三好学生、北京市优秀学生干部
+- **职务**：院学生会主席
 
-- 参与仿生超隔热气凝胶纤维纺丝结构设计；相关工作发表于 *Science & Technology Review*。
+---
 
-### 智能传感纤维热拉伸系统
+## 🔬 科研经历
 
-- 第一完成人，完成实验室级智能传感纤维热拉伸设备设计与制造，并制备毫米级柔性传感纤维。
+### 1. 智能传感纤维 — 自主完成国内首台实验室级别智能传感纤维热拉伸设备设计及制造
+`第一完成人` `2025`
 
-## ⟡ Engineering Notes
+**项目背景**：机器人感知器件多为刚性模块，难以适配柔性交互场景。同时结合医用生理监测需求，传统设备不便全天候穿戴，柔性智能传感纤维可成为人机交互与健康监测的理想载体。
 
-```text
-INPUT          spectrum files / experimental observations / engineering constraints
-↓
-METHOD         physical reasoning + controlled tools + data workflow
-↓
-OUTPUT         auditable metrics / ranked candidates / visual reports
-```
+**个人成果**：我自主机械设计并制造了国内首台实验室级别智能传感纤维热拉伸设备。后通过多功能层热压封装集成和热拉伸技术，成功制备出毫米级柔性传感纤维。该成果仅需单根纤维即可实现自供电全天候信号传感与监测。
 
-## 🧰 Toolkit
+---
 
-`Python` `Data Analysis` `LLM Agents` `Vibe Coding` `Origin` `Minitab` `ANSYS` `Creo` `Adobe Illustrator` `Photoshop`
+### 2. 热管理材料制备 — 仿北极熊毛热管理气凝胶纤维及织物制备
+`第二完成人` `2024`
 
-## 🏅 Highlights
+**项目背景**：2024年5月21日，华大基因董事长汪建登顶珠峰，刷新了我国登顶珠峰最年长纪录。其登顶时穿着的仿北极熊毛超保暖气凝胶织物，由本人参与设计的特殊结构双螺杆挤出气凝胶纤维纺丝机制备而成，具有标志性意义。
 
-- 国家奖学金 · 浙江大学一等奖学金 · 浙江大学优秀研究生
-- 中国国际大学生创新大赛全国金奖
-- 发明专利第一发明人：铁铬液流电池电极改性方法
+**个人成果**：第一作者于 *Science & Technology Review* 发表论文 "Progress in biomimetic thermal management materials"。
 
-## 🤝 Connect
+---
 
-- Email: [weishan@zju.edu.cn](mailto:weishan@zju.edu.cn)
-- GitHub: [@1178922523-maker](https://github.com/1178922523-maker)
-- Project: [Spectra Copilot](https://spectra-copilot.onrender.com/)
+### 3. 长时储能铁铬液流电池 — 中国国际大学生创新创业大赛全国金奖
+`本科第一完成人` `2022`
+
+**项目背景**：风光发电适配大规模商业化，但出力波动、间歇性强，需储能配套保用电稳定。铁、铬资源储量大，使铁铬液流电池成本更低，且兼具能量密度优、环保性好、循环寿命长等优势，已成电化学储能新发展方向。
+
+**个人成果**：我提出一种铁铬液流电池碳布电极改性方法：以普通碳布为原料，经三步清洗、快速退火刻蚀沟槽，再置于间苯二胺-乙醇混合溶液中水热反应制备改性活性碳布。测试表明，60 mA/cm² 下该改性电极库伦、电压、能量效率分别提升 6.11%、5.44%、12.39%。本人以第一发明人申请对应发明专利（202211663589.4），且授权相关实用新型专利（ZL 202221578.8）。
+
+---
+
+## 💼 项目实践经历
+
+### 1. 军科委 16X 专项 — 世界已知性能最佳紫外-可见-红外多光学波段雪地隐身军服
+`第一完成人` `2025 - 至今`
+
+**项目背景**：传统雪地隐身服仅能实现可见光波段的视觉隐身，在紫外探测与红外热成像监测下仍具有显著特征。其核心难点在于雪地环境要求材料具备高紫外反射率，且单兵隐身要求极低的红外发射率，这种跨波段的光谱性能冲突是实现雪地全频谱兼容伪装的长期瓶颈。
+
+**个人成果**：我提出一种自主设计制备的纳米多孔红外透明材料与低发射率层耦合结构设计方案，通过对多波段电磁波的协同调控，实现紫外90.8%、可见80.2%高反射，红外12.3%低发射率，首次实现了雪地背景下"紫外-可见-红外"超高性能兼容隐身，填补了该领域技术空白，为我国雪地极端环境下的特种作战装备提供了关键技术支持。
+
+---
+
+### 2. 华为技术有限公司（实习）— 结构与材料工程师
+`2026.07 - 2026.09`
+
+**项目背景**：数据中心存储缺口加剧，华为磁电存储凭借高容量、低成本及低功耗等优势成为重要数据存储方案。其中，MED天玑电机作为关键驱动部件，需满足磁带收放过程中的双电机转矩匹配、低NVH（振动噪声）等可靠性要求。
+
+**个人成果**：
+1. 开展电机转矩常数（Kt）、NVH等关键规格测试，运用SPC分析性能波动及产品一致性；
+2. 参与可靠性验证及基于DOE的影响因素分析，深入产线跟进异常问题，开展失效分析并推动整改闭环，提升产品稳定性；
+3. 开展天玑电机尺寸链与VSA公差仿真分析，评估关键零件尺寸公差对电机性能及装配一致性的影响，支撑结构优化；
+4. 基于Python编写端跳数据批处理脚本，替代原单文件分析软件，实现FFT分析与结果自动汇总，提升测试分析效率。
+
+---
+
+## 🏅 荣誉奖项
+
+| 年份 | 奖项 |
+| :-- | :-- |
+| **2025** | 浙江省大学生创新创业大赛省赛铜奖 |
+| **2025** | 浙江大学"蒲公英"大学生创新大赛校赛银奖 |
+| **2023** | 中国国际大学生创新创业大赛全国金奖 |
+| **2022** | "挑战杯"首都大学生创业计划竞赛金奖 |
+| **2022** | 入选 2022 年北京冬奥会志愿者 |
+| **2022** | 北京 2022 年冬奥会交通部最佳志愿者 |
+| **2021** | 共青团中央全国大学生社会实践优秀团队 |
+| **2021** | 入选北京市科学技术协会双创精英训练营 |
+
+---
+
+## 🧰 个人能力
+
+### 英语水平
+- CET-4：536
+- CET-6：507
+
+### 软件使用
+熟练使用 Creo / 3ds Max（建模）、ANSYS（有限元仿真）、Adobe Illustrator / PS（视觉设计）、Origin、Minitab（数据分析）、AI Agent辅助代码开发（ChatGPT/Codex、Claude Code等）及 Office 全家桶。
+
+### 核心优势
+善于团结协作，透过现象把握事物本质；热爱思考不设限，能精准挖掘核心需求并高效解决问题。
+
+---
+
+## 🤝 联系方式
+
+- **Email**：[weishan@zju.edu.cn](mailto:weishan@zju.edu.cn)
+- **GitHub**：[@1178922523-maker](https://github.com/1178922523-maker)
 
 <div align="center">
-  <sub>Built around materials research, engineering validation, and agentic workflows.</sub>
+  <sub>终身学习，永不设限 · Lifelong Learning, No Limits</sub>
 </div>
