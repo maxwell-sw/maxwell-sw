@@ -9,6 +9,8 @@
 
   <a href="mailto:weishan@zju.edu.cn"><img src="https://img.shields.io/badge/Email-weishan%40zju.edu.cn-1676d2?style=flat-square" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Hangzhou%2C%20China-4f86c6?style=flat-square" alt="Hangzhou, China" />
+  <a href="https://github.com/maxwell-sw/spectra-copilot"><img src="https://img.shields.io/badge/Spectra%20Copilot-在线演示-46E3B7?style=flat-square" alt="Spectra Copilot" /></a>
+  <a href="https://github.com/maxwell-sw/ran-notes"><img src="https://img.shields.io/badge/研行记%20RAN-在线演示-5B5BD6?style=flat-square" alt="研行记 RAN" /></a>
 </div>
 
 ---
@@ -97,6 +99,43 @@
 
 ---
 
+## 🚀 开源项目
+
+### 1. Spectra Copilot — 面向科研的材料光谱智能分析 Agent
+`独立开发` `2026` `Node.js · FastAPI · Function Calling`
+
+**项目定位**：传统材料光谱分析需在"找文件、确认单位、填参数、计算、画图、写报告"间反复切换，跨工具成本高且质量依赖个人经验。Spectra Copilot 将碎片化步骤编排为自动化工作流，建立"模型决策、代码守界"的可信架构。
+
+**核心实现**：
+- 采用"LLM 规划 - Harness 控制 - 确定性工具"三层架构，基于 Node.js 与 Function Calling 实现 15 个受控工具的自动编排循环
+- 支持自然语言驱动的 ≤30 份文件批量分析，集成单位智能识别、ASTM/黑体加权计算、波段特征分析、科学可视化与 HTML 报告
+- 以条件闸门确保 LLM 负责意图理解与参数提取，所有数值计算由确定性代码执行，分析周期从约 2 小时压缩至 5 分钟
+
+| 项目 | 链接 |
+| :-- | :-- |
+| **在线演示** | [spectra-copilot.onrender.com](https://spectra-copilot.onrender.com) |
+| **GitHub** | [github.com/maxwell-sw/spectra-copilot](https://github.com/maxwell-sw/spectra-copilot) |
+
+---
+
+### 2. 研行记（RAN）— 科研组会高价值记录生成与管理 Agent
+`独立开发` `2026.01 - 至今` `FastAPI · 多模态 LLM · SQLite`
+
+**项目定位**：传统组会纪要仅保留文字结论，丢失支撑结论的证据链，讨论要点与 PPT 数据图表、文献结论的语境关联断裂，复盘时无法还原核心含义，导致执行阶段理解偏差与重复返工。
+
+**核心实现**：
+- 支持语音转写、PPT、文献 PDF 多源素材一体化输入，实现口语冗余提纯、学术术语规范与证据链溯源
+- 创新性提出导师反馈强度分级机制，将模糊口语拆解为带优先级的可执行行动项
+- 构建课题组资产看板与组会日历热力图，实现历史记录聚合检索与科研轨迹可视化分析
+- 已在本校 3 个课题组完成内测，覆盖 42 人，累计处理组会记录 87 次，整理耗时从 2-3 小时压缩至 10 分钟以内
+
+| 项目 | 链接 |
+| :-- | :-- |
+| **在线演示** | [ran-notes.onrender.com](https://ran-notes.onrender.com) |
+| **GitHub** | [github.com/maxwell-sw/ran-notes](https://github.com/maxwell-sw/ran-notes) |
+
+---
+
 ## 🏅 荣誉奖项
 
 | 年份 | 奖项 |
@@ -119,7 +158,7 @@
 - CET-6：507
 
 ### 软件使用
-熟练使用 Creo / 3ds Max（建模）、ANSYS（有限元仿真）、Adobe Illustrator / PS（视觉设计）、Origin、Minitab（数据分析）、AI Agent辅助代码开发（ChatGPT/Codex、Claude Code等）及 Office 全家桶。
+熟练使用 Creo / 3ds Max（建模）、ANSYS（有限元仿真）、Adobe Illustrator / PS（视觉设计）、Origin、Minitab（数据分析）、Office 全家桶；独立开发并开源 2 个 AI Agent（GitHub: maxwell-sw），熟悉 LLM Function Calling、Agent 工作流编排与确定性工具集成。
 
 ### 核心优势
 善于团结协作，透过现象把握事物本质；热爱思考不设限，能精准挖掘核心需求并高效解决问题。
