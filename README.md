@@ -83,6 +83,21 @@
 
 ---
 
+## 📝 研究作品
+
+### AI 牛市与互联网泡沫比较研究报告
+`独立研究` `2026` `作者：单威｜浙江大学`
+
+从宏观周期、估值逻辑、资金面、技术扩散曲线与市场情绪五个维度，系统比较 2020s AI 牛市与 2000 年互联网泡沫的异同，识别当前阶段的结构性特征与潜在风险。
+
+| 格式 | 链接 |
+| :-- | :-- |
+| **PDF** | [AI牛市与互联网泡沫比较研究报告.pdf](https://github.com/maxwell-sw/maxwell-sw/blob/main/research-reports/ai-nasdaq-cycle-2026/AI%E7%89%9B%E5%B8%82%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf) |
+| **Word** | [AI牛市与互联网泡沫比较研究报告.docx](https://github.com/maxwell-sw/maxwell-sw/blob/main/research-reports/ai-nasdaq-cycle-2026/AI%E7%89%9B%E5%B8%82%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.docx) |
+| **文件夹** | [research-reports/ai-nasdaq-cycle-2026](https://github.com/maxwell-sw/maxwell-sw/tree/main/research-reports/ai-nasdaq-cycle-2026) |
+
+---
+
 ## 🔬 科研经历
 
 ### 1. 智能传感纤维 — 自主完成国内首台实验室级别智能传感纤维热拉伸设备设计及制造
