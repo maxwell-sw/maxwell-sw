@@ -92,9 +92,9 @@
 
 | 格式 | 链接 |
 | :-- | :-- |
-| **PDF** | [AI牛市与互联网泡沫比较研究报告.pdf](https://github.com/maxwell-sw/maxwell-sw/blob/main/research-reports/ai-nasdaq-cycle-2026/AI%E7%89%9B%E5%B8%82%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf) |
-| **Word** | [AI牛市与互联网泡沫比较研究报告.docx](https://github.com/maxwell-sw/maxwell-sw/blob/main/research-reports/ai-nasdaq-cycle-2026/AI%E7%89%9B%E5%B8%82%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.docx) |
-| **文件夹** | [research-reports/ai-nasdaq-cycle-2026](https://github.com/maxwell-sw/maxwell-sw/tree/main/research-reports/ai-nasdaq-cycle-2026) |
+| **PDF** | [AI牛市与互联网泡沫比较研究报告.pdf](https://github.com/maxwell-sw/ai-nasdaq-cycle-research/blob/main/AI%E7%89%9B%E5%B8%82%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf) |
+| **Word** | [AI牛市与互联网泡沫比较研究报告.docx](https://github.com/maxwell-sw/ai-nasdaq-cycle-research/blob/main/AI%E7%89%9B%E5%B8%82%E4%B8%8E%E4%BA%92%E8%81%94%E7%BD%91%E6%B3%A1%E6%B2%AB%E6%AF%94%E8%BE%83%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.docx) |
+| **仓库** | [github.com/maxwell-sw/ai-nasdaq-cycle-research](https://github.com/maxwell-sw/ai-nasdaq-cycle-research) |
 
 ---
 
